@@ -5,4 +5,5 @@
 - Es una arquitectura que se basa en una serie de servicios que se pueden implementar de forma independiente.
 
 # Diferencia entre fronted y backend.
-- El frontend es la parte visible e interactiva y el backend es la infraestructura oculta en el servidor que lo procesa todo 
+- El frontend es la parte visible e interactiva y el backend es la infraestructura oculta en el servidor que lo procesa todo
+ 
